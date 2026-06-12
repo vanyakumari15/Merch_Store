@@ -3,3 +3,5 @@
 
 # Synopsis/Project details
   To make easier for content creators to sell there merchandise, and for customers too. this website have integrated payment gateway and has beautiful UI for great user experience For completion of this website we had used some of the core azure services such as Static Webapps Visual Studio Code.
+
+Deployment - https://vanyakumari15.github.io/Merch_Store/
